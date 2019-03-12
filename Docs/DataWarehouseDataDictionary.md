@@ -1,4 +1,4 @@
-# DataWarehouse Data Dictionary
+# Data Warehouse Data Dictionary
 __Final Project__
 
 
