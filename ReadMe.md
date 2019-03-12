@@ -30,7 +30,5 @@ Sean Bernard
         - Each fact table (and associated dimensions) can be seen on the ERD named **[COURSEFACTS_TableERD.pdf](Docs/COURSEFACTS_TableERD)** 
 - We tested our `CourseDataWarehouse.db` for data integrity.  Queries can be found in **[CourseDataWarehouseTest.ipynb](Docs/CourseDataWarehouseTest.ipynb)** notebook 
 - Demo your results with useful queries.
-    - Create yet another new notebook called **[CourseDataWarehouseDemo.ipynb](Docs/CourseDataWarehouseDemo.jpynb)** that illustrates the usefulness of the data warehouse with a few informative queries.
-        - Number the queries so we can refer to them by number later. (In other words, make sure your queries have entity integrity.)
-        - In your Markdown include remarks about why, when, and how the query might be used in practice. If your query results suggest anything insightful, then include a cell below the query results with Markdown-formatted remarks.
+    - **[CourseDataWarehouseDemo.ipynb AKA Datawarehouse-TOM-R1.jpynb](Datawarehouse-TOM-R1.jpynb)** to illustrate the usefulness of the data warehouse with a few informative queries.
 - Walkthrough presentation
