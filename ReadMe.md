@@ -27,7 +27,7 @@ Sean Bernard
     - Each relationship is implemented correctly (Relational integrity); are the FKs JOIN-compatible with the PKs? does each mandatory relationship have a corresponding NOT NULL constraint?
     - Annotate your queries in Markdown so we know what you are testing and why.
         - We designed and built a data warehouse called `CourseDataWarehouse.db`based on a star schema design. 
-        - Document each fact table (and associated dimensions) as a separate ERD named **[fact_table.pdf](Docs/fact_table.pdf)** 
+        - Each fact table (and associated dimensions) can be seen on the ERD named **[COURSEFACTS_TableERD.pdf](Docs/COURSEFACTS_TableERD)** 
 - We tested our `CourseDataWarehouse.db` for data integrity.  Queries can be found in **[CourseDataWarehouseTest.ipynb](Docs/CourseDataWarehouseTest.ipynb)** notebook 
 - Demo your results with useful queries.
     - Create yet another new notebook called **[CourseDataWarehouseDemo.ipynb](Docs/CourseDataWarehouseDemo.jpynb)** that illustrates the usefulness of the data warehouse with a few informative queries.
