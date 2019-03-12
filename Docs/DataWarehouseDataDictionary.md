@@ -3,11 +3,11 @@ __Final Project__
 
 
 ## Attribute Information
-| Course Meetings |Table of Appearence | Contents | Data Type |
+| Course Meetings |Table of Appearence | Contents |
 |-----------------|---------------------|----------|----------|
-|**CRN**|COURSEFACTS|Course Requisite Number...a unique course identifier| Integer|
+|**CRN**|COURSEFACTS|Course Requisite Number...a unique course identifier| 
 |**Location**|LOCATION| Identifies the classroom | Text |
-|**CATALOG_ID**|COURSEFACTS| Non unique course identifier | Integer | Text |
+|**CATALOG_ID**|COURSEFACTS| Non unique course identifier | Integer | 
 |**Credits**|COURSEFACTS| Amount of credits recieved for taking class |
 |**Primary Instructor**|INSTRUCTORS |Teacher name|
 |**Cap**|COURSEFACTS|Amount of seats class can have|
@@ -20,8 +20,8 @@ __Final Project__
 |**Coreqs**|COURSE_DIM| Classes that are needed along with this class |
 |**Description**|COURSE_DIM| Summary of the class |
 |**term**|COURSEFACTS|Spring - Summer - Winter - Fall|
-|**TID**|COURSEFACTS|Professor id number|Integer|
-|**CDID**|COURSEFACTS|Course id number|Integer|
+|**TID**|COURSEFACTS|Professor id number|
+|**CDID**|COURSEFACTS|Course id number|
 
 
 
